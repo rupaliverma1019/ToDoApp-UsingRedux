@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ToDoApp-UsingRedux/static/css/main.b058a4ae.css",
+    "main.js": "/ToDoApp-UsingRedux/static/js/main.3b096a23.js",
+    "index.html": "/ToDoApp-UsingRedux/index.html",
+    "main.b058a4ae.css.map": "/ToDoApp-UsingRedux/static/css/main.b058a4ae.css.map",
+    "main.3b096a23.js.map": "/ToDoApp-UsingRedux/static/js/main.3b096a23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b058a4ae.css",
+    "static/js/main.3b096a23.js"
+  ]
+}
